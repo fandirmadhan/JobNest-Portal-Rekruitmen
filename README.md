@@ -1,7 +1,4 @@
 # JobNest - Lowongan Pekerjaan 2025
-Muhammad Fandi Ramadhan
-Universitas Mataram
-Divisi FullStack Web Developer
 
 JobNest adalah sebuah platform web yang menyediakan informasi lowongan pekerjaan di seluruh Indonesia. Platform ini dirancang untuk memudahkan perusahaan dalam mencari calon pekerja yang sesuai, serta membantu calon pekerja menemukan pekerjaan impian mereka.
 
